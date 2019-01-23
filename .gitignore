@@ -2,3 +2,5 @@
 *.sketch
 *.ai
 *.docx
+aux/
+images_editable/
